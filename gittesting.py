@@ -1,3 +1,1 @@
-greetings = "hello,hi,privet".split(',')
-
-
+greetings = "hello,hi,how do you do".split(',')
